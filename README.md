@@ -10,7 +10,7 @@ This project is a backend architecture developed using Spring Boot, designed to 
 - JWT Authentication: Implements stateless authentication using JSON Web Tokens, ensuring secure and scalable access.
 - Authorization: Role-based access control to secure endpoints and resources.
 - MySQL Connectivity: Connects to a MySQL database for reliable and efficient data storage.
-- 
+  
 # Technology Stack
 - Apache Maven
 - Java
